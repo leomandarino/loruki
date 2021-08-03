@@ -11,3 +11,5 @@ Notes:
 > Create variables for repeating properties
 
 > Ctrl + k + u - On VS Code, adds a comment line automatically (I didn't know this and was super happy to find out lol)
+
+> Using utility classes is a really great idea, gonna incorporate it!
