@@ -13,3 +13,7 @@ Notes:
 > Ctrl + k + u - On VS Code, adds a comment line automatically (I didn't know this and was super happy to find out lol)
 
 > Using utility classes is a really great idea, gonna incorporate it!
+
+> Separating the utility classes in a separate "utilities.css" file is good for organization
+
+> Use 'ctrl + d' to select multiple items with the same characters and edit them
