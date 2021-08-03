@@ -17,3 +17,5 @@ Notes:
 > Separating the utility classes in a separate "utilities.css" file is good for organization
 
 > Use 'ctrl + d' to select multiple items with the same characters and edit them
+
+> Selectors: use '> *:first-child' to select the first item in a parent element (this is useful if you want to update this section)
