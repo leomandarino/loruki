@@ -19,3 +19,10 @@ Notes:
 > Use 'ctrl + d' to select multiple items with the same characters and edit them
 
 > Selectors: use '> *:first-child' to select the first item in a parent element (this is useful if you want to update this section)
+
+> the "i" tag stands for icon (good to know)
+
+
+What I would have done differently:
+
+> I'd use more rem/em on text sizes, instead of pixels
