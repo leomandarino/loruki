@@ -94,6 +94,18 @@
     color: #333;
 }
 
+/* Alert */
+.alert {
+    background-color: var(--light-color);
+    padding: 10px 20px;
+    font-weight: bold;
+    margin: 15px 0;
+}
+
+.alert i {
+    margin-right: 10px;
+}
+
 /* Flex & Grid */
 
 .flex {
