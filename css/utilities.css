@@ -55,6 +55,23 @@
     font-size: 4rem;
 }
 
+/* Text Colors */
+.text-primary {
+    color: var(--primary-color);
+}
+
+.text-secundary {
+    color: var(--secundary-color);
+}
+
+.text-dark {
+    color: var(--dark-color);
+}
+
+.text-light {
+    color: var(--light-color);
+}
+
 /* Text Align */
 .text-center {
     text-align: center;
@@ -79,6 +96,12 @@
     color: #fff;
 }
 
+.bg-light,
+.btn-light {
+    background-color: var(--light-color);
+    color: #333;
+}
+
 .bg-primary a,
 .btn-primary a,
 .bg-secundary a,
@@ -86,12 +109,6 @@
 .bg-dark a,
 .btn-dark a {
     color: #fff;
-}
-
-.bg-light,
-.btn-light {
-    background-color: var(--light-color);
-    color: #333;
 }
 
 /* Alert */
@@ -104,6 +121,16 @@
 
 .alert i {
     margin-right: 10px;
+}
+
+.alert-success {
+    background-color: var(--success-color);
+    color: #fff;
+}
+
+.alert-error {
+    background-color: var(--error-color);
+    color: #fff;
 }
 
 /* Flex & Grid */
