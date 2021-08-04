@@ -1,10 +1,10 @@
-Loruki Tutorial from Traversy Media
+# Loruki Tutorial from Traversy Media
 
 I'm coding along with this tutorial for practice.
 
 My objective is to get used to the workflow of building a website, using HTML and CSS.
 
-Notes:
+# Notes:
 
 > Use utility class to create default styles to your elements
 
@@ -22,9 +22,20 @@ Notes:
 
 > the "i" tag stands for icon, use it with 'font awesome' (good to know)
 
+> Create movement with animations and 'transform: translate'
 
-What I would have done differently:
+
+# What I would have done differently:
 
 > I'd use more rem/em on text sizes, instead of pixels
 
 > I'd start building from small to big screens, adding complexity
+
+
+# What I learned:
+
+> Organization helps A LOT, so spend some time planning your build before start coding. This way you have a better overall idea of the structure of the page, so coding is easier.
+
+> There are many ways of achieving the same result.
+
+> Grid is AMAZING!
