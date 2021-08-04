@@ -20,9 +20,11 @@ Notes:
 
 > Selectors: use '> *:first-child' to select the first item in a parent element (this is useful if you want to update this section)
 
-> the "i" tag stands for icon (good to know)
+> the "i" tag stands for icon, use it with 'font awesome' (good to know)
 
 
 What I would have done differently:
 
 > I'd use more rem/em on text sizes, instead of pixels
+
+> I'd start building from small to big screens, adding complexity
